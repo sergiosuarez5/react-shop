@@ -31,7 +31,7 @@ import productImg25 from "../images/wireless-03.png";
 const products = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
+    productName: "Sofa Stone",
     imgUrl: productImg01,
     category: "sofa",
     price: 193,
@@ -50,7 +50,7 @@ const products = [
 
   {
     id: "02",
-    productName: "Rivet Bigelow Modern ",
+    productName: "Sofa Modern ",
     imgUrl: productImg02,
     category: "sofa",
     price: 253,
@@ -73,7 +73,7 @@ const products = [
 
   {
     id: "03",
-    productName: "Amazon Brand Modern Sofa",
+    productName: "Sofa Clasic",
     imgUrl: productImg03,
     category: "sofa",
     price: 173,
@@ -95,7 +95,7 @@ const products = [
   },
   {
     id: "26",
-    productName: "Rivet Bigelow Modern ",
+    productName: "Sofa Umbrella",
     imgUrl: productImg02,
     category: "sofa",
     price: 253,
@@ -117,7 +117,7 @@ const products = [
   },
   {
     id: "04",
-    productName: "Fllufy Sheep Sofa",
+    productName: "Sofa Sheep",
     imgUrl: productImg04,
     category: "sofa",
     price: 163,
@@ -140,7 +140,7 @@ const products = [
 
   {
     id: "05",
-    productName: "Faux Velvet Sofa",
+    productName: "Sofa Velvet",
     imgUrl: productImg05,
     category: "sofa",
     price: 163,
@@ -163,7 +163,7 @@ const products = [
 
   {
     id: "06",
-    productName: "Fllufy Sheep Sofa",
+    productName: "Sofa Loyaly",
     imgUrl: productImg06,
     category: "sofa",
     price: 163,
@@ -185,7 +185,7 @@ const products = [
   },
   {
     id: "07",
-    productName: "Sakarias Armchair",
+    productName: "Silla Sakarias",
     imgUrl: productImg07,
     category: "silla",
     price: 99,
@@ -208,7 +208,7 @@ const products = [
 
   {
     id: "27",
-    productName: "Modern Arm Sofa",
+    productName: "Sofa Arm",
     imgUrl: productImg007,
     category: "sofa",
     price: 173,
@@ -231,7 +231,7 @@ const products = [
 
   {
     id: "08",
-    productName: "Baltsar Chair",
+    productName: "Silla Baltsar",
     imgUrl: productImg08,
     category: "silla",
     price: 89,
@@ -254,7 +254,7 @@ const products = [
 
   {
     id: "09",
-    productName: "Helmar Chair",
+    productName: "Silla Helmar",
     imgUrl: productImg09,
     category: "silla",
     price: 112,
@@ -299,7 +299,7 @@ const products = [
   },
   {
     id: "25",
-    productName: "Sakarias Armchair",
+    productName: "Silla Armchair",
     imgUrl: productImg10,
     category: "silla",
     price: 99,

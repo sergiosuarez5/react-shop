@@ -2,7 +2,7 @@
   "name": "react-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sergiosuarez5.github.io/react-shop",
+  "homepage": "https://sergiosuarez5.github.io/react-shop",
   "dependencies": {
     "@firebase/util": "^1.8.0",
     "@reduxjs/toolkit": "^1.9.1",
@@ -12,7 +12,6 @@
     "bootstrap": "^5.3.0-alpha1",
     "firebase": "^9.15.0",
     "framer-motion": "^8.0.2",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
@@ -24,8 +23,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -48,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
